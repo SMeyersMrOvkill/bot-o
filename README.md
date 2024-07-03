@@ -1,2 +1,4 @@
 # bot-o
 My personal assistant. It contains the system prompt, along with all code i'm comfortable sharing from it's personal knowledge database. Updated sporadically, and at-will. However, freely available and *could* be improved if interest were shown.
+
+**Note**: All code, prompts, assets here are MIT. Use as LICENSE permits! I only note the potential for exemption due to the possibility of migration to local assistants conciding with delicate or technology I may develop or contribute to in the event of likely abuse. I *WILL NEVER* hold back something from the open source community simply because I "don't want to share my toys and money.", as such violates my every principle about software. Server software with keys may be held back during development, if I take too long, reach out and offer assistance. Don't tell me to do something unless you want to help.
