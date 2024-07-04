@@ -1,6 +1,6 @@
 # Sam: Bot-O, we need convert any HTML color str to an RGBA. quintuplet.
-# Claude 3.5 Sonnet, as Bot-O: 
-# ```python
+# Claude 3.5 Sonnet, as Bot-O:
+
 import re
 from colorsys import hls_to_rgb
 import argparse
@@ -95,8 +95,5 @@ def main():
     except ValueError as e:
         print(f"Error: {str(e)}")
 
-if __name__ == "__main__":
-    main()
-
-#```
-# Sam: Thanks! Excellent work!
+def whatever(html_color):
+    return web_to_rgba(html_color)
